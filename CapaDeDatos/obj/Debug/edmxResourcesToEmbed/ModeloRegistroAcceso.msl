@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RegistrosBDModelStoreContainer" CdmEntityContainer="RegistrosBDEntities">
+    <EntitySetMapping Name="RegistroAcceso">
+      <EntityTypeMapping TypeName="RegistrosBDModel.RegistroAcceso">
+        <MappingFragment StoreEntitySet="RegistroAcceso">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Patente" ColumnName="Patente" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+          <ScalarProperty Name="TipoPersonal" ColumnName="TipoPersonal" />
+          <ScalarProperty Name="NombrePersonal" ColumnName="NombrePersonal" />
+          <ScalarProperty Name="FechaIngreso" ColumnName="FechaIngreso" />
+          <ScalarProperty Name="FechaSalida" ColumnName="FechaSalida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,9 @@
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\bin\Debug\CapaDeDatos.dll
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\bin\Debug\CapaDeDatos.pdb
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb

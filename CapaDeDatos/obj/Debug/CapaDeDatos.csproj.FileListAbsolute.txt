@@ -1,0 +1,8 @@
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\bin\Debug\CapaDeDatos.dll.config
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\ollidnanref\Documents\Visual Studio 2015\Projects\SolutionRegistroAcceso\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

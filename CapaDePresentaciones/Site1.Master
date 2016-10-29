@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="CapaDePresentaciones.Site1" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Panel ID="Panel1" runat="server">
+            
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            
+
+        </asp:Panel>
+            <asp:Menu ID="Menu2" runat="server" DataSourceID="SiteMapDataSource1"></asp:Menu>
+        <asp:Panel ID="Panel2" runat="server">
+
+
+        </asp:Panel>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
